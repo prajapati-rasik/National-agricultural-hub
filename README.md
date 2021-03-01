@@ -17,3 +17,8 @@
  > * :clock12: design of entity relationship diagram
  > * :clock4: design of relational schema
  > * :clock8: implemented project using html, php, css with mysql database
+
+ ## Usage :-
+ > * install xampp
+ > * configure Mysql database (phpMyadmin)
+ > * run index.php
