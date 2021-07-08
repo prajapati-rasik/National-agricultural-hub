@@ -24,3 +24,6 @@
  > * install xampp
  > * configure Mysql database (phpMyadmin)
  > * run index.php
+
+ ## Demo :-
+ https://national-agriculture-hub.000webhostapp.com
