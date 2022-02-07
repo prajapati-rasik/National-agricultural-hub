@@ -26,4 +26,4 @@
  > * run index.php
 
  ## Demo :-
- https://national-agriculture-hub.000webhostapp.com
+ http://agrihub.epizy.com/
